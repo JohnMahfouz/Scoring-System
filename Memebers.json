@@ -1,0 +1,47 @@
+{
+  "m1": {
+    "name": "Simba",
+    "score": 0,
+    "team_id": "team1"
+  },
+  "m2": {
+    "name": "Nala",
+    "score": 0,
+    "team_id": "team1"
+  },
+  "m3": {
+    "name": "Zazu",
+    "score": 0,
+    "team_id": "team1"
+  },
+  "m4": {
+    "name": "Dumbo",
+    "score": 28,
+    "team_id": "team2"
+  },
+  "m5": {
+    "name": "Tantor",
+    "score": 28,
+    "team_id": "team2"
+  },
+  "m6": {
+    "name": "Rafiki",
+    "score": 0,
+    "team_id": "team3"
+  },
+  "m7": {
+    "name": "Abu",
+    "score": 0,
+    "team_id": "team3"
+  },
+  "m8": {
+    "name": "Cheetara",
+    "score": 0,
+    "team_id": "team4"
+  },
+  "m9": {
+    "name": "Spot",
+    "score": 0,
+    "team_id": "team4"
+  }
+}

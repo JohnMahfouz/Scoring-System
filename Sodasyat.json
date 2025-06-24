@@ -1,0 +1,22 @@
+{
+  "team1": {
+    "name": "Lion Pride",
+    "score": 0,
+    "leader_password": "lion123"
+  },
+  "team2": {
+    "name": "Elephant Herd",
+    "score": 58,
+    "leader_password": "ele123"
+  },
+  "team3": {
+    "name": "Monkey Troop",
+    "score": 0,
+    "leader_password": "monkey123"
+  },
+  "team4": {
+    "name": "Cheetah Clan",
+    "score": 0,
+    "leader_password": "cheetah123"
+  }
+}
